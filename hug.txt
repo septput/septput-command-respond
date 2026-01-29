@@ -1,1 +1,1 @@
-${random.pick '${sender} casts Warm Blessing on ${1}!' '${sender} wraps ${1} in a safe-zone hug!' '${sender} applies Cozy Buff to ${1}!'}
+${random.pick '${sender} casts Warm Blessing on @${user}!' '${sender} wraps ${1} in a safe-zone hug!' '${sender} applies Cozy Buff to ${1}!'}
