@@ -1,5 +1,4 @@
-Warrior: blocks everything except emotional damage|
-Ranger: outranges everything including responsibility|
+Warrior: blocks everything except emotional damage|Ranger: outranges everything including responsibility|
 Sorceress: dodges everything including consequences|
 Berserker: grabs everything including bad ideas|
 Tamer: lets the pet do all the thinking|
