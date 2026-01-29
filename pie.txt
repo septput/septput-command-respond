@@ -1,0 +1,1 @@
+${sender} throws a food buff at ${1}!|${sender} pies ${1} with questionable cooking!|${sender} splats a pie on ${1}!|${sender} feeds ${1} mystery food!|${sender} hits ${1} with a pastry attack!|${sender} applies pie buff to ${1}!|${sender} launches a pie at ${1}!|${sender} pies ${1} gently!|${sender} throws dessert chaos at ${1}!|${sender} pies ${1} for fun!
