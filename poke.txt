@@ -1,0 +1,1 @@
+${sender} pokes ${1} for an AFK check!|${sender} gently pokes ${1}!|${sender} asks if ${1} is still alive (poke)!|${sender} pokes ${1} near safe zone!|${sender} nudges ${1} softly!|${sender} pokes ${1} for attention!|${sender} gives ${1} a tiny poke!|${sender} pokes ${1} suspiciously!|${sender} pokes ${1} like “hi?”|${sender} checks ${1} with a poke!
